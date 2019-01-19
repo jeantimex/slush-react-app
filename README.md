@@ -1,4 +1,7 @@
-# Slush React-app [![Build Status](https://secure.travis-ci.org/jeantimex/slush-react-app.png?branch=master)](https://travis-ci.org/jeantimex/slush-react-app) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-react-app.png)](http://badges.enytc.com/for/npm/slush-react-app)
+# Slush React-app
+
+[![Build Status](https://secure.travis-ci.org/jeantimex/slush-react-app.png?branch=master)](https://travis-ci.org/jeantimex/slush-react-app)
+[![NPM version](https://badge-me.herokuapp.com/api/npm/slush-react-app.png)](http://badges.enytc.com/for/npm/slush-react-app)
 
 > Scaffold your next React app with webpack and webpack dev server.
 
